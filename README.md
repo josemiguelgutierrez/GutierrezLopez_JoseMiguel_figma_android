@@ -10,7 +10,7 @@ Tarea 2 de Diseño de Interfaces: Del prototipo al código (I).
 - Monté el layout de la pantalla con los mismos nombres que en Figma.
 
 ## Memoria
-[Ver la memoria en PDF](docs/NOMBRE_DEL_PDF.pdf)
+[Ver la memoria en PDF](docs/Memoria interfaces.pdf)
 
 ## Autor
 José Miguel Gutiérrez López - 2.º DAM
