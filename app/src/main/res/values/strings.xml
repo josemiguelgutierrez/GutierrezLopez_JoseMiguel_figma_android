@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ClothesKids</string>
+    <string name="inicio_sesion_titulo">ClothesKids</string>
+    <string name="inicio_sesion_subtitulo">Inicia sesión para continuar</string>
+    <string name="inicio_sesion_hint_correo">Correo electrónico</string>
+    <string name="inicio_sesion_hint_contrasena">Contraseña</string>
+    <string name="inicio_sesion_btn_iniciar">Iniciar sesión</string>
+    <string name="inicio_sesion_btn_crear_cuenta">Crear cuenta</string>
 </resources>
